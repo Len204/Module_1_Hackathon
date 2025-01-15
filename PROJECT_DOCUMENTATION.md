@@ -14,7 +14,7 @@ This hackathon is in the progress of making it into a full webpage about marvel 
 
 ## Team Member One: Lenard Serapio
 
-- Work on Third Gen Spider Man: Tom Holand
+- Work on Third Gen Spider Man: Tom Holland
 
 ## Team Member Two: Yesha Lomeda
 
